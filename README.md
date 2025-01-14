@@ -128,8 +128,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 For any questions or inquiries, please contact:
-- Hriday Bhagtani - [Email](mailto:hridayparas@gmail.com)
-- Anushka Sharma - [Email](mailto:anushka.sharma7675@gmail.com)
+- Pratik iNtoliya - [Email(mailto:pratikintoliya07@gmail.com)
 
 ---
 *Cricket analytics project using T20 World Cup data for selecting the best 11 players via Power BI.*
